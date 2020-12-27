@@ -1,0 +1,20 @@
+*Pick And Place List
+*Company=
+*Author=
+*eMail=
+*
+*Project=PC Light Controller
+*Date=05:27:48
+*CreatedBy=Fritzing 0.9.4.2019-12-01.CD-498-0-a1ffcea
+*
+*
+*Coordinates in mm, always center of component
+*Origin 0/0=Lower left corner of PCB
+*Rotation in degree (0-360, math. pos.)
+*
+*No;Value;Package;X;Y;Rotation;Side;Name
+1;;THT;92.2089;-39.2103;0;Bottom;INPUT (12V)
+2;;;16.2341;-30.892;0;Bottom;NodeMCU
+3;;;59.4429;-13.6833;0;Bottom;LLC
+4;;THT;92.2828;-11.1431;0;Bottom;OUTPUT (5V/Din/GND)
+5;;;60.2348;-38.8409;180;Bottom;LM2596
